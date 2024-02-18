@@ -1,4 +1,4 @@
-# 🃏 Projet de Carte de Profil
+# 🃏 Profile Card
 
 Ce projet est une page web créée avec React, Sass et Vite. Il affiche une carte de profil contenant une photo, votre nom et une description.
 
