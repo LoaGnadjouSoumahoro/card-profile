@@ -1,6 +1,6 @@
-# Projet de Carte de Profil
+# 🃏 Projet de Carte de Profil
 
-Ce projet affiche ma carte de profil contenant une photo, mon nom et une description.
+Ce projet est une page web créée avec React, Sass et Vite. Il affiche une carte de profil contenant une photo, votre nom et une description.
 
 ![Aperçu du Projet](/src/assets/image-page-profile-card.jpg)
 
@@ -17,9 +17,9 @@ Ce projet affiche ma carte de profil contenant une photo, mon nom et une descrip
 - Utilisation de Sass pour les styles.
 - Configuration du projet avec Vite pour une meilleure performance.
 
-<!-- ## Contribuer
+## Contribuer
 
-Les contributions sont les bienvenues! N'hésitez pas à ouvrir une issue pour signaler un bug ou proposer une nouvelle fonctionnalité. Vous pouvez également ouvrir une pull request pour soumettre des modifications. -->
+Les contributions sont les bienvenues! N'hésitez pas à ouvrir une issue pour signaler un bug ou proposer une nouvelle fonctionnalité. Vous pouvez également ouvrir une pull request pour soumettre des modifications.
 
 ## Auteurs
 
@@ -27,4 +27,6 @@ Les contributions sont les bienvenues! N'hésitez pas à ouvrir une issue pour s
 
 ## Lien vers le Projet
 
-<!-- Vous pouvez consulter le projet en direct [ici](). -->
+Vous pouvez consulter le projet en direct [ici]().
+
+#
